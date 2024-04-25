@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns 
 
-st.title("Kushi's app")
+st.title("Prathibha's app")
 
 st.markdown('## Key Metrics')
 
